@@ -1,3 +1,8 @@
 
 Sample_data/LoanStats_securev1_2017Q4.csv
 Sample_data/LoanStats_securev1_2019Q3.csv
+*.csv
+.ipynb_checkpoints/Data_Clean_Up-checkpoint.ipynb
+.ipynb_checkpoints/Data Review-checkpoint.ipynb
+Sample_data/LoanStats_securev1_2019Q3.csv
+Sample_data/LoanStats_securev1_2019Q3.csv
